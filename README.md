@@ -1,6 +1,7 @@
 # How-rich-are-the-rich
 We worked on a dataset called “Fortune 1000”. This dataset ranks the top 500 corporations by revenue in the United States. It includes the entire Fortune 1000, as opposed to just the top 500. Extracted from the Fortune website containing U.S company data for the year of 2021. Fortune 1000 dataset consists of 1000 rows and 18 columns.    In this project we chose the “fortune 1000.csv” dataset and consolidated our theoretical knowledge into techniques/skills. We analyzed it based on the practical values learnt during this course. In this project we put theory into practice and analyzed the dataset with the use of the methods provided along this 6-week course. The questions that we would like to tackle while working on this dataset are shown below. The methods used are correlation and regression analysis including multivariate regression, ANOVA hypothesis testing, GLM and Logistic Regression, Spearman Test. We also performed exploratory data analysis to work with clean data generating accurate results.
-Questions: 1.	Is there an existing relationship between Revenue and Profit?  
+Questions:
+1.	Is there an existing relationship between Revenue and Profit?  
 2.	Does the ranking of the company affect the number of employees?
 3.	Which sector generates the most profit? 
 4.	How does the Profit affect Market Capital?
